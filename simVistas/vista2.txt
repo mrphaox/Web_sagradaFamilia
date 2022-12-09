@@ -1,0 +1,10 @@
+esta es mi vista 2
+
+linea 1
+linea 2
+linea 3
+linea 4
+linea 5
+
+volvi agregar un volver al inicio
+ya que lo habilite
